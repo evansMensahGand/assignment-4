@@ -1,0 +1,68 @@
+
+
+
+/* create account starts here */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.cr-account{
+width: 30%;
+height: 75vmin;
+margin:auto;
+margin-top: 50px;
+display:flex;
+flex-direction:column;
+align-items:center;
+padding:0;
+background-color: aqua;
+justify-content: center;
+}
+
+.acc-creation{
+    width: 100%;
+    height:60vmin;
+    /* background-color:blue; */
+    font-size: 17px;
+    border-style: solid;
+
+}
+
+.acc-creation input{
+    width: 100%;
+}
+
+.acc-creation button{
+    width:100%;
+    height: 30px;
+    background-color: rgb(246,217,148);
+    border-radius: 10px;
+}
+
+.indi-sections{
+    margin: 10px;
+}
+
+.copy-right{
+    width: 20%;
+    margin: auto;
+    margin-top: 5px;
+    display:flex;
+    flex-direction:column;
+}   
+
+.copy-right-end{
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-bottom: 2px;
+    
+}
+
+
+.all-pes{
+    margin:0;
+}

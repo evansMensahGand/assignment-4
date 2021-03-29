@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: #EEEEEE;
+}
+
+
+#conta-al {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align:center;
+    
+}
+#conta-all{
+    width: 80%;
+    display: block;
+    justify-content: center;
+    align-content: center;
+    background: crimson;
+    padding: 2rem;
+
+}

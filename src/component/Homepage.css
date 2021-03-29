@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: #EEEEEE;
+}
+#contain-al {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align:center;
+    
+}
+#contain-all{
+    width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: crimson;
+    padding: 2rem;
+
+}
+ 
+  
+.size-h1{
+    margin:2rem;
+}
